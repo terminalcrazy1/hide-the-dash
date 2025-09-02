@@ -1,6 +1,6 @@
 {
-  "uuid": "hide-the-dock@Spitball1234",
+  "uuid": "hide-the-dash@Spitball1234",
   "name": "Hide Dash in Overview",
-  "description": "Hides the dash/dock in the GNOME Activities Overview.",
+  "description": "Hides the dash in the GNOME Activities Overview.",
   "shell-version": ["46", 47"]
 }
